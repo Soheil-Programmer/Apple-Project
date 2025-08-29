@@ -113,7 +113,7 @@ a:hover {
 }
 
 
-@media (max-width: 700px) {
+@media(max-width: 700px) {
   section,
   #accessory-section {
     width: 50%;
